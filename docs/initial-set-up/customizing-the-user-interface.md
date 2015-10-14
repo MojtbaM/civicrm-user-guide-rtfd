@@ -210,7 +210,7 @@ only the fields they need. This can speed up data entry considerably.
 3.  Check the Standalone Form or Directory box in the **Used For**
     field.
 4.  Use the **Pre-form Help** and **Post-form Help** fields to add any
-    text you'd like to display to hose doing data entry. 
+    text you'd like to display to users doing data entry. 
 5.  Click **Save**; this takes you to the Add Fields screen so you can
     choose which fields to put in your Profile. 
 6.  From the **Field Name** dropdown menu, select the contact record

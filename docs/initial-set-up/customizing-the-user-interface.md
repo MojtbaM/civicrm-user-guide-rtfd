@@ -153,6 +153,7 @@ the current year all the way through to 10 years beyond the current
 year. If you would like to track activities that have occurred, say, 25
 years ago then you would need to update this range to enable your end
 users to log these activities. Otherwise you will see an error such as:
+Please enter a date between 01/01/1995 and 31/12/2025
 
 ![](../_edit/static/z_sprint14_Date_error.png)
 
